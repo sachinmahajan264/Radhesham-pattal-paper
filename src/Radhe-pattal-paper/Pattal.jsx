@@ -1,8 +1,8 @@
-import { Routes,Route } from 'react-router-dom';
+import { Routes,Route,useNavigate } from 'react-router-dom';
 import About from './About';
 import Home from './Home';
 import Contect from './Contect';
-import { useNavigate } from 'react-router-dom';
+// import { useNavigate } from 'react-router-dom';
 import Nav from './Nav'
 import Arun from './Arun';
 
